@@ -1,2 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I am adding a second line to Alice
+
+A change is being made to Alice by some other developer.
